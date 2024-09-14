@@ -1,0 +1,2 @@
+1,Alice,alice@example.com,Librarian
+2,Bob,bob@example.com,Member
